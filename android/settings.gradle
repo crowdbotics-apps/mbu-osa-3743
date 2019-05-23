@@ -1,0 +1,3 @@
+rootProject.name = 'mbu_osa_3743'
+
+include ':app'
